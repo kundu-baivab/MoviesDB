@@ -35,3 +35,5 @@ git clone https://github.com/kundu-baivab/MoviesDB.git
 - Redux Toolkit
 - Redux Persist
 - React Icons
+
+## Vite + ReactJS application
