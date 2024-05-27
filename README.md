@@ -19,7 +19,7 @@ This is a simple movie app built with React and Redux. It allows users to browse
 ## Usage
 1. Start the development server:
    ``npm run dev``
-2. Open your browser and go to `http://localhost:3000` to view the app.
+2. Open your browser and go to `http://localhost:5173` to view the app.
 
 ## Configuration
 - The app uses Redux for state management. You can find the Redux store configuration in `src/redux/store.js`.
