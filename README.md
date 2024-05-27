@@ -3,6 +3,9 @@
 # Introduction
 This is a simple movie app built with React and Redux. It allows users to browse a list of movies, mark their favorite movies, and browse through the list of favorite movies.
 
+# Code Explanation and Project Video
+- https://drive.google.com/drive/folders/1Aqh1kJIDq0-zz6TG7_Tzj7IQ6RC6EJam?usp=sharing
+
 ## Features
 - Browse a list of movies
 - Mark favorite movies
