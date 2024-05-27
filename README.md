@@ -1,4 +1,4 @@
-# MoviesDC
+# MoviesDB
 
 # Introduction
 This is a simple movie app built with React and Redux. It allows users to browse a list of movies, mark their favorite movies, and browse through the list of favorite movies.
@@ -10,7 +10,7 @@ This is a simple movie app built with React and Redux. It allows users to browse
 
 ## Installation
 1. Clone the repository to your local machine:
-[git clone]{https://github.com/kundu-baivab/MoviesDB}
+[git clone]https://github.com/kundu-baivab/MoviesDB
 2. Navigate to the project directory:
    ``cd MoviesDB``
 3. Install dependencies:
